@@ -9,13 +9,12 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 2. Activate it: 
    - Windows:`.\langchainenv\Scripts\activate`
    - Mac: `source langchain/bin/activate`
-3. Clone this repo `git clone https://github.com/nicknochnack/LangchainDocuments`
+3. Clone this repo `git clone https://github.com/lovesaif/LangchainDocumentsChatbot.git`
 4. Go into the directory `cd LangchainDocuments`
 5. Install the required dependencies `pip install -r requirements.txt`
-6. Add your OpenAI APIKey to line 22 of `app.py`
+6. Add your Groq APIKey in file `app.py`
 7. Start the app `streamlit run app.py`  
-8. Go back to my YouTube channel and like and subscribe 😉...no seriously...please! lol 
 
 # Other References 🔗
-<p>The main LG Agent used:<a href="[https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html](https://python.langchain.com/docs/introduction/)">Langchain VectorStore Agents
+<p>The main LG Agent used:<a href="https://python.langchain.com/docs/introduction/">Langchain VectorStore Agents
 </a></p>
