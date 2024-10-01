@@ -10,7 +10,8 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
    - Windows:`.\langchainenv\Scripts\activate`
    - Mac: `source langchain/bin/activate`
 3. Clone this repo `git clone https://github.com/lovesaif/LangchainDocumentsChatbot.git`
-4. Go into the directory `cd LangchainDocuments`
+4. Go into the directory `cd LangchainDocumentsChatbot
+`
 5. Install the required dependencies `pip install -r requirements.txt`
 6. Add your Groq APIKey in file `app.py`
 7. Start the app `streamlit run app.py`  
