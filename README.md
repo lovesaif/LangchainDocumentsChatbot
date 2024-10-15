@@ -14,7 +14,8 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 `
 5. Install the required dependencies `pip install -r requirements.txt`
 6. Add your Groq APIKey in file `app.py`
-7. Start the app `streamlit run app.py`  
+7. Start the app `streamlit run app.py`
+8. Some Screenshots of App Working in Local Machine. link : https://drive.google.com/drive/folders/1pRGOMnlpKVhGvIJT9lMvnQ7X6tgKTNwH
 
 # Other References 🔗
 <p>The main LG Agent used:<a href="https://python.langchain.com/docs/introduction/">Langchain VectorStore Agents
